@@ -34,7 +34,7 @@ public class ChatEngine {
                 throw new UserAddException();
 
         }
-
+//
         ChatEngineId++;
         UserList.put(ChatEngineId,user);
 
