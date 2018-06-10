@@ -1,0 +1,40 @@
+h1{
+color: brown;
+}
+p{
+color: black;
+}
+h2{
+color: darkgreen;
+text-align: left
+}
+.btn {
+    border: 2px solid green;
+    border-radius: 8px;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 20px;
+    cursor: pointer;
+    display: inline-block;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.button1 {
+
+    border: 2px solid orange;
+    border-radius: 4px;
+    background-color: inherit;
+    padding: 20px 10px;
+    font-size: 19px;
+    cursor: pointer;
+    display: inline-block;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+.submit {
+    color: purple;
+}
+.submit:hover {
+    background: #ff9800;
+    color: white;
+}
